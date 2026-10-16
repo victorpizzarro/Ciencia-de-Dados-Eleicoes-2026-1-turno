@@ -1,0 +1,17 @@
+# Dados brutos baixados do TSE (reprodutíveis pelo 01_ETL.ipynb)
+data/raw/
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Ambiente / sistema
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
